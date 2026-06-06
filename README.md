@@ -2,9 +2,8 @@
 
 Data Analyst focused on turning raw data into reliable business insights, clean metrics and decision-ready dashboards.
 
-I work mainly with SQL, Python, GA4, BigQuery, Tableau and Power BI. Recently, I have been moving from classical data analysis toward analytics engineering, where data pipelines, modeling, testing and BI infrastructure become part of the analytical workflow.
-
-My work sits between business analysis, marketing analytics and data systems: clean data models, meaningful KPIs, reproducible analysis and dashboards that support real decisions.
+I work mainly with **SQL, Python, GA4, BigQuery, Tableau and Power BI**.  
+My work sits between **business analysis**, **marketing analytics** and **analytics engineering**: clean data models, meaningful KPIs, reproducible analysis and dashboards that support real decisions.
 
 I am especially interested in:
 
@@ -23,6 +22,9 @@ I am especially interested in:
 LinkedIn: [linkedin.com/in/özgürkaptan](https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/)  
 GitHub: [github.com/OzgurKaptann](https://github.com/OzgurKaptann)  
 Email: [ozgrkptn@gmail.com](mailto:ozgrkptn@gmail.com)
+
+For collaboration, freelance work or project discussions:  
+**[ozgrkptn@gmail.com](mailto:ozgrkptn@gmail.com)**
 
 ---
 
@@ -79,15 +81,6 @@ Email: [ozgrkptn@gmail.com](mailto:ozgrkptn@gmail.com)
 
 - **Finance Operations Automation Pipeline**  
   Receipt approval, currency conversion and dashboard-ready finance data pipeline.
-
----
-
-## GitHub Analytics
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OzgurKaptann&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurKaptann&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
