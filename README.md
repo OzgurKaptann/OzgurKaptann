@@ -20,10 +20,7 @@ I am especially interested in:
 ## Socials
 
 LinkedIn: [linkedin.com/in/özgürkaptan](https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/)  
-GitHub: [github.com/OzgurKaptann](https://github.com/OzgurKaptann)  
-Email: [ozgrkptn@gmail.com](mailto:ozgrkptn@gmail.com)
-
-For collaboration, freelance work or project discussions:  
+ collaboration, freelance work or project discussions:  
 **[ozgrkptn@gmail.com](mailto:ozgrkptn@gmail.com)**
 
 ---
