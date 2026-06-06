@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+</p>
+
 ## About Me
 
 Data Analyst focused on turning raw data into reliable business insights, clean metrics and decision-ready dashboards.
@@ -15,12 +21,7 @@ I am especially interested in:
 - Analytics engineering with dbt, Airflow and PostgreSQL
 - Building dashboard-ready data models
 
----
-
-## Socials
-
-LinkedIn: [linkedin.com/in/özgürkaptan](https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/)  
- collaboration, freelance work or project discussions:  
+For collaboration, freelance work or project discussions:  
 **[ozgrkptn@gmail.com](mailto:ozgrkptn@gmail.com)**
 
 ---
