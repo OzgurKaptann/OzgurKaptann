@@ -1,10 +1,4 @@
-<p align="left">
-  <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
-  </a>
-</p>
-
-## About Me
+## About Me <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn" /></a>
 
 Data Analyst focused on turning raw data into reliable business insights, clean metrics and decision-ready dashboards.
 
