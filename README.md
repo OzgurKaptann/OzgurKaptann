@@ -1,9 +1,9 @@
 ## About Me <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCrkaptan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn" /></a>
 
-Data Analyst focused on turning raw data into reliable business insights, clean metrics and decision-ready dashboards.
-
-I work mainly with **SQL, Python, GA4, BigQuery, Tableau and Power BI**.  
-My work sits between **business analysis**, **marketing analytics** and **analytics engineering**: clean data models, meaningful KPIs, reproducible analysis and dashboards that support real decisions.
+Data Analyst with an analytics engineering mindset.
+I focus on turning raw data into reliable business metrics, clean data models, analytical pipelines and decision-ready dashboards.
+My main stack includes SQL, Python, GA4, BigQuery, PostgreSQL, dbt, Airflow, Metabase, Tableau and Power BI.
+My work combines business analysis, marketing analytics, financial analytics and data pipeline design. I build projects around funnel analysis, A/B testing, churn analysis, campaign performance, KPI modeling, dashboard-ready marts and operational analytics systems.
 
 I am especially interested in:
 
@@ -11,9 +11,10 @@ I am especially interested in:
 - GA4 + BigQuery event data analysis
 - Funnel, cohort, retention and churn analysis
 - A/B testing and statistical decision-making
-- SQL-based business analysis
+- SQL-based business and campaign analysis
 - Analytics engineering with dbt, Airflow and PostgreSQL
-- Building dashboard-ready data models
+- Financial analytics and operations automation
+- Building dashboard-ready data models and analytical pipelines
 
 For collaboration, freelance work or project discussions:  
 **[ozgrkptn@gmail.com](mailto:ozgrkptn@gmail.com)**
