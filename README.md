@@ -50,29 +50,61 @@ For collaboration, freelance work or project discussions:
 
 ## Featured Projects
 
-- **GA4 + BigQuery E-commerce Funnel Analytics**  
-  Funnel drop-off analysis, engagement behavior and purchase conversion analysis using GA4 event data.
+### Completed GitHub Projects
 
-- **E-commerce Marketing Analytics**  
-  Campaign performance, ROI, conversion rate and customer behavior analysis with Python.
+- **SweetOps**  
+  Full-stack restaurant operations and analytics platform built with FastAPI, PostgreSQL, dbt, WebSockets and Next.js.  
+  Completed as a v1 product system with customer ordering, kitchen workflow, owner dashboard, inventory logic and decision-support layer.
 
-- **Subscription Conversion A/B Test**  
-  A/B testing project focused on conversion lift, z-test, confidence intervals and statistical decision-making.
+- **MarketPulse-DE / Analytics Engineering BI Stack**  
+  End-to-end analytics engineering and BI infrastructure project using Docker, PostgreSQL, Airflow, dbt and Metabase.  
+  Includes raw-to-mart data modeling, scheduled ELT workflows, incremental fact tables and BI-ready analytics layers.
 
-- **Customer Churn & Win-Back Analysis**  
-  RFM-based segmentation, churn risk analysis and retention impact measurement.
+- **Financial Intelligence Pipeline**  
+  End-to-end financial analytics pipeline with Python, SQLite/PostgreSQL, SQL marts, KPI modeling and executive-ready reporting.  
+  Includes document ingestion, metric extraction, KPI mart modeling, validation checks and Metabase-ready outputs.
+
+- **Receipt Approval System / Finance Operations Automation Pipeline**  
+  Finance operations automation system for receipt approval, currency conversion and structured reporting workflows.  
+  Focused on operational control, approval logic and dashboard-ready finance data preparation.
+
+- **Mini Market Dashboard**  
+  FastAPI and Next.js SaaS architecture simulation with JWT authentication, plan-based access, usage quotas, backend proxy, cache and rate limiting logic.
+
+- **GA4 + BigQuery E-Commerce Funnel Analytics**  
+  Funnel drop-off analysis, engagement behavior and purchase conversion analysis using GA4 event export data and BigQuery SQL.
 
 - **SQL Marketing Campaign Analytics**  
   Google Ads and Facebook Ads analysis using CTEs, UNION, window functions, ROMI and Gaps & Islands.
 
-- **Analytics Engineering BI Stack**  
-  BI infrastructure project using Airflow, dbt, PostgreSQL incremental facts and Metabase.
+- **E-Commerce Marketing Analytics with Python**  
+  Campaign performance, ROI, conversion rate, customer segmentation and Pareto analysis using Python.
 
-- **SweetOps**  
-  Order management and analytics pipeline design where operational flow and analytical data are designed together.
+- **Customer Churn & Win-Back Analysis**  
+  RFM-based segmentation, churn risk analysis, A/B testing and retention impact measurement with Python.
 
-- **Finance Operations Automation Pipeline**  
-  Receipt approval, currency conversion and dashboard-ready finance data pipeline.
+
+### Published Colab / Case Study Projects
+
+- **A/B Testing for Subscription Conversion**  
+  Python-based A/B test analysis comparing a standard subscription offer with a discount-message variant using conversion rate, z-test and confidence intervals.
+
+- **Remote Work Health & Burnout Analysis**  
+  People analytics project analyzing remote, hybrid and office work patterns across health complaints, burnout risk and work-life balance.
+
+- **Creative Data Storytelling with Python: Billionaire Numerology Analysis**  
+  Experimental data storytelling project using Python for feature engineering, categorical analysis and creative visualization.
+
+
+### In Progress / Active Development
+
+- **AI Export Intelligence Pipeline**  
+  Spec-driven AI export intelligence pipeline built with Python, PostgreSQL, SQLAlchemy, Pydantic and Kiro.  
+  Currently under active development with validation schemas, database migrations, ORM models, repository layer and pipeline orchestration.
+
+- **ORDERIQ**  
+  Order management and analytics system focused on operational tracking, structured data capture and reporting-oriented backend design.  
+  Currently under development.
 
 ---
 
