@@ -69,8 +69,12 @@ For collaboration, freelance work or project discussions:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-6F42C1?style=flat)
 
+### AI-Assisted Development Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
+![Kiro](https://img.shields.io/badge/Kiro-6F42C1?style=flat)
 ---
 
 ## Featured Projects
